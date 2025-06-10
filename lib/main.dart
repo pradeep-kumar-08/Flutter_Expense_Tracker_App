@@ -10,5 +10,8 @@ void main() async {
   await Firebase.initializeApp();
   Bloc.observer = SimpleBlocObserver();
 
+
+
+
   runApp(MyApp());
 } 
