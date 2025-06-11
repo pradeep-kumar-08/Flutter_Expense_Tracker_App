@@ -1,4 +1,4 @@
-# test_demo
+# Flutter_Expense_Tracker_App
 
 A new Flutter project
 Cross-platform Flutter app for managing income  
